@@ -1,0 +1,9 @@
+[submodule "jdk_17/spring-petclinic"]
+	path = jdk_17/spring-petclinic
+	url = https://github.com/spring-projects/spring-petclinic.git
+[submodule "jdk_8/game-of-life"]
+	path = jdk_8/game-of-life
+	url = https://github.com/wakaleo/game-of-life.git
+[submodule "dotnet/MusicStore"]
+	path = dotnet/MusicStore
+	url = https://github.com/CI-CDProjects/MusicStore.git
